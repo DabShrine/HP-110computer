@@ -1,5 +1,8 @@
 # HP-110
 
+![words](0036front.jpg)
+[^1]
+
 | *Specs* | *HP-110* | *Pavilion Power 15* | *Difference* |
 | :-----: | :------: | :-----------------: | :----------: |
 | CPU | Harris 80C86 | Intel i7-7700 | ~4 Decades |
@@ -10,3 +13,4 @@
 | Screen | 480x128 LCD | 1920x1080 WLED | 34% More Pixels & Colored | 
 | Weight | 3.36 Kg | 2.21 Kg | 35% Lighter | 
 
+[^1]:
