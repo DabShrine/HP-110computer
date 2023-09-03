@@ -1,7 +1,9 @@
 # The HP-110 and Pavilion Power 15
 ___
+
 ![words](110-p15.PNG)
 [^1]
+
 ___
 
 
