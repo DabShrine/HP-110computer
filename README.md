@@ -4,6 +4,7 @@ ___
 [^1]
 ___
 
+
 | *Specs* | *HP-110* | *Pavilion Power 15* | *Difference* |
 | :-----: | :------: | :-----------------: | :----------: |
 | CPU | Harris 80C86 | Intel i7-7700 | ~4 Decades |
